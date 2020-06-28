@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "stemmer": "^1.0.4",
+    "stopword": "^0.3.1"
+  }
+}
